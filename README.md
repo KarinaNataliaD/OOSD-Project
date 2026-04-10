@@ -23,5 +23,5 @@ Yes it does
 
 – Where is the entry point to your project? (src/main/Main.java for
 example)
-C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java
+C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
 

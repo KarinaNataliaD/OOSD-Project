@@ -1,0 +1,378 @@
+2026.04.10 15:25:45 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project' for client Visual Studio Code 1.114.0.
+2026.04.10 15:25:45 INFO  Memory monitor started
+2026.04.10 15:25:45 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.10 15:25:46 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:46 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+Apr 10, 2026 3:25:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Apr 10, 2026 3:25:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Apr 10, 2026 3:25:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.10 15:25:46 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:47 WARN  no build tool detected in workspace 'C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.10 15:25:47 WARN  Build server is not auto-connectable.
+2026.04.10 15:25:47 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java
+2026.04.10 15:25:47 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:47 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:47 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:47 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/main.java. Output:
+
+2026.04.10 15:25:47 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/main.java. Output:
+
+2026.04.10 15:25:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:56 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:55 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/main.java. Output:
+
+2026.04.10 15:25:56 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:56 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:25:56 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/main.java. Output:
+
+2026.04.10 15:26:02 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:26:02 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:26:02 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:26:02 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+Apr 10, 2026 3:26:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Apr 10, 2026 3:26:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+2026.04.10 15:26:03 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:26:05 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:26:05 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:26:14 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:26:16 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:26:36 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:26:36 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:20 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:20 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:20 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:20 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:20 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:21 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:21 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:23 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:54 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:54 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:54 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:54 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:57 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:57 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:27:57 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:57 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:58 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:58 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:58 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:58 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:27:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:01 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:37 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:37 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:37 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:43 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:43 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:43 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:44 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:44 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+Apr 10, 2026 3:28:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 98
+2026.04.10 15:28:44 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:46 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:46 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:46 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:47 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:47 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:47 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:48 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:48 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:48 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+Apr 10, 2026 3:28:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 114
+2026.04.10 15:28:48 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:49 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:48 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:49 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:48 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:49 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:49 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:49 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:50 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:52 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:52 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:52 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:53 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:53 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:53 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:54 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:53 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:54 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:54 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:55 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:55 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:56 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:28:58 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:58 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:28:58 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:00 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:00 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:00 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:29:02 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:02 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:02 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:03 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:03 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:29:03 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:03 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:03 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:29:04 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:11 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:11 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:11 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:13 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:13 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:14 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:29:15 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:15 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:15 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:15 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:15 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:15 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:15 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:16 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:29:16 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:16 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:16 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:29:16 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:18 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:18 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:18 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:18 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:18 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:18 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:19 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:29:20 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:20 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:20 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:20 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:21 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:29:22 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:37 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:38 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:29:37 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:37 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:39 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:39 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:43 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:43 INFO  Created report: Optional[file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java]
+2026.04.10 15:29:43 INFO  QDox parse error in file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java (full report at: "C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\.metals\.reports\metals-full\2026-04-10\r_qdox-error_15-29-43-753.md")
+2026.04.10 15:29:43 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:43 INFO  QDox parse error in file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java (full report at: "C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\.metals\.reports\metals-full\2026-04-10\r_qdox-error_15-29-43-753.md")
+2026.04.10 15:29:43 INFO  Created report: Optional[file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java]
+2026.04.10 15:29:43 INFO  empty definition using pc, found symbol in pc: java/lang/System#out. (full report at: "C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\.metals\.reports\metals-full\2026-04-10\r_empty-definition_15-29-43-852.md")
+2026.04.10 15:29:44 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:29:44 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:30:12 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:30:12 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:30:12 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:30:12 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:30:13 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:30:14 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:30:14 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:30:14 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:30:15 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:30:16 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:31:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:31:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:32:00 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:32:00 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:32:00 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:32:00 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:32:01 WARN  Running javac-semanticdb failed for file:///C:/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/Main.java. Output:
+
+2026.04.10 15:32:02 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+Apr 10, 2026 3:32:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.10 15:32:16 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+Apr 10, 2026 3:32:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.10 15:32:18 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:33:00 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:33:03 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:33:08 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:34:04 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:34:37 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:34:37 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:34:37 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:34:54 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:34:54 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:34:54 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:35:06 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:35:06 INFO  no build target found for c:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main.java. Using fallback presentation compiler.
+2026.04.10 15:35:06 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java
+2026.04.10 15:35:06 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+2026.04.10 15:35:06 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+2026.04.10 15:35:06 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+2026.04.10 15:35:08 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java
+2026.04.10 15:36:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+2026.04.10 15:36:59 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java
+2026.04.10 15:36:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+2026.04.10 15:36:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:08 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:08 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java
+2026.04.10 15:38:08 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+Apr 10, 2026 3:38:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/main/Main.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+Apr 10, 2026 3:38:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/main/Main.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+Apr 10, 2026 3:38:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/karin/OneDrive/Documents/GitHub/OOSD-Project/project_root/src/main/Main.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+2026.04.10 15:38:37 INFO  no build target found for c:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:37 INFO  no build target found for c:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\main\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:37 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:38:54 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:38:55 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:57 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:57 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:57 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:57 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:58 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:58 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:38:59 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:39:01 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
+2026.04.10 15:39:03 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:39:03 INFO  no build target found for C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java. Using fallback presentation compiler.
+2026.04.10 15:39:52 WARN  no build target for: C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java

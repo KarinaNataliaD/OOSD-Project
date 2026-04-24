@@ -1,0 +1,14 @@
+# Compiled files
+*.class
+target/
+*.bin
+
+# Metals / VS Code Java
+.metals/
+.bloop/
+*.json
+.vscode/
+
+# Logs
+*.log
+*.db

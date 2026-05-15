@@ -25,3 +25,22 @@ Yes it does
 example)
 C:\Users\karin\OneDrive\Documents\GitHub\OOSD-Project\project_root\src\Main.java
 
+## Planned Final Submission
+
+For the final submission, I plan to demonstrate a fully functional restaurant ordering system that supports:
+- Dynamic menu item creation
+- Multiple pricing strategies
+- Order customization
+- Queue-based order management
+- UML documentation
+- Multiple implemented design patterns
+
+The application will demonstrate object-oriented programming principles and several software design patterns working together in a practical system.
+
+## Current Challenges
+
+Some challenges encountered during development include:
+- Designing relationships between design patterns cleanly
+- Refactoring existing code to properly implement patterns
+- Ensuring low coupling between components
+- Managing scalability as more features are added

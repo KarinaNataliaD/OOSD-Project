@@ -1,8 +1,8 @@
 package com.restaurant.domain;
 
 public enum OrderStatus {
-    PLACE,
-    PREPARING, 
+    PLACED,
+    PREPARING,
     READY,
     SERVED,
     CANCELLED

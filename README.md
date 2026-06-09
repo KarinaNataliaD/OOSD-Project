@@ -44,3 +44,46 @@ Some challenges encountered during development include:
 - Refactoring existing code to properly implement patterns
 - Ensuring low coupling between components
 - Managing scalability as more features are added
+
+
+-------------------------------------
+Project Description: 
+A restaurant ordering system where customers can place orders, customize menu items with toppings, and track orders through a kitchen life cycle. The system uses a Swing GUI to demonstrate the 6 design patterns working together in a real application. 
+
+--------------------------------------
+How to Run: 
+
+GUI (recommended): 
+cd project_root
+mvn compile
+mvn exec:java -Dexec.mainClass="com.restaurant.MainGUI" 
+
+Terminal Demo 
+mvn exec:java -Dexec.mainClass="com.restaurant.Main"
+
+--------------------------------------
+What the Final Demo Shows: 
+1. Creating a new order for a customer 
+2. Adding menu items using the Factory Method pattern 
+3. Customising items with toppings using the Decorator pattern 
+4. Placing the order which triggers the Observer pattern 
+5. Advancing the order through PLACED -> PREPARING -> READY -> DELIVERED 
+6. Switching pricing strategies to show Regular, Happy Hour, and Loyalty Discounts 
+7. Using Undo to reverse actions via Command Pattern 
+
+--------------------------------------
+Known Bugs: 
+
+1. .class files occasionally appear in source folders when compiling outside of Maven.
+- Fix: run Java: Clean Java Language Server Workspace in VS Code.
+2. The Metals language server sometimes reports incorrect package declaration errors on first load. 
+- Fix: run Java: Reload Projects in VS Code command palette.
+
+--------------------------------------
+What I would add with more time given: 
+
+1. A database layer to be able to continue placing orders between sessions 
+2. A proper login screen for different staff roles (cashier vs kitchen)
+3. Menu item editing and a full admin panel 
+4. Print receipt functionality  
+5. Maybe like sound notifications for when people know when their order is ready. 
